@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 🙋‍♀️ Introduction
-MolyuuOS is a mutabvle, rolling update Linux distribution based on Arch Linux designed to provide a SteamOS-like experience on the Steam Deck.
+MolyuuOS is a mutable, rolling update Linux distribution based on Arch Linux designed to provide a SteamOS-like experience on the Steam Deck.
 
 It is working in progress, and may take a long time to develop. After the development of the basic components is completed, the source code will be open source here.
 <!--

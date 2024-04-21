@@ -4,6 +4,14 @@
 MolyuuOS is a mutable, rolling update Linux distribution based on Arch Linux designed to provide a SteamOS-like experience on the Steam Deck.
 
 It is working in progress, and may take a long time to develop. After the development of the basic components is completed, the source code will be open source here.
+
+## 🍿 Current Status
+Currently MolyuuOS is stable enough for daily use, you can follow our guide in https://github.com/MolyuuOS/molyuuos-builder to build it yourself (suggested), you can also download prebuilt rootfs in our workflows.
+
+## 🗺️ Road Map
+- [ ] A Distro Sync program (For factory reset and full system upgrade with manifest)
+- [ ] A simple installer to install system
+
 <!--
 
 **Here are some ideas to get you started:**
